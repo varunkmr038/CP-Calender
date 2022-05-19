@@ -1,0 +1,13 @@
+{
+  "name": "CP Calendar",
+  "description": "An extension that keeps users updated about Coding or Competitive Programming contests.",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo/128.png"
+  },
+  "icons": {
+    "128": "images/icon.png"
+  }
+}
